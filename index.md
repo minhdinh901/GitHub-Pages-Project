@@ -3,10 +3,10 @@
 Hello to whoever is reading this! My name is *Minh Dinh*, and I am an aspiring `software engineer`. 
 
 #### Table of Contents:
-1. [Background and Experience](https://github.com/minhdinh901/GitHub-Pages-Project/blob/main/index.md#background-and-experience)
-2. [Hobbies](https://github.com/minhdinh901/GitHub-Pages-Project/blob/main/index.md#hobbies)
-3. [Future Goals](https://github.com/minhdinh901/GitHub-Pages-Project/blob/main/index.md#future-goals)
-4. [Fun Facts](https://github.com/minhdinh901/GitHub-Pages-Project/blob/main/index.md#fun-facts)
+1. [Background and Experience](https://minhdinh901.github.io/GitHub-Pages-Project/#background-and-experience)
+2. [Hobbies](https://minhdinh901.github.io/GitHub-Pages-Project/#hobbies)
+3. [Future Goals](https://minhdinh901.github.io/GitHub-Pages-Project/#future-goals)
+4. [Fun Facts](https://minhdinh901.github.io/GitHub-Pages-Project/#future-goals)
 
 ### Background and Experience
 I am currently studying computer engineering at [UC San Diego](https://ucsd.edu/), and this academic year will be my third and possibly final year of my undergraduate studies. 
