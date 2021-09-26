@@ -3,10 +3,10 @@
 Hello to whoever is reading this! My name is *Minh Dinh*, and I am an aspiring `software engineer`. 
 
 #### Table of Contents:
-1. Background and Experience
-2. Hobbies
-3. Future Goals
-4. Fun Facts
+1. [Background and Experience](https://github.com/minhdinh901/GitHub-Pages-Project/blob/main/index.md#background-and-experience)
+2. [Hobbies](https://github.com/minhdinh901/GitHub-Pages-Project/blob/main/index.md#hobbies)
+3. [Future Goals](https://github.com/minhdinh901/GitHub-Pages-Project/blob/main/index.md#future-goals)
+4. [Fun Facts](https://github.com/minhdinh901/GitHub-Pages-Project/blob/main/index.md#fun-facts)
 
 ### Background and Experience
 I am currently studying computer engineering at [UC San Diego](https://ucsd.edu/), and this academic year will be my third and possibly final year of my undergraduate studies. 
@@ -17,7 +17,7 @@ Previously, I have interned as a `software engineer` at **Housecall Pro**
 
 and as a `software development engineer` at **Amazon Web Services**.
 
-![AWS Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1200px-Amazon_Web_Services_Logo.svg.png)
+![AWS Logo](https://www.tsts.com/wp-content/uploads/2018/09/amazonws-e1536006760584.png)
 
 ### Hobbies
 I have several hobbies such as listening to music and playing bowling, but my top five hobbies, not in any particular order, are
